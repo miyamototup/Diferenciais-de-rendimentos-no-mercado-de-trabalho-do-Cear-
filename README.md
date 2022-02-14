@@ -1,0 +1,2 @@
+# Diferenciais-de-rendimentos-no-mercado-de-trabalho-do-Cear-
+O trabalho foi desenvolvido com o bjetivo analisar os diferenciais de rendimentos no mercado de trabalho formal do Ceará. Foram utilizados microdados da RAIS para o período de 2000-2014 e equações Mincerianas de rendimentos foram estimadas por meio dos métodos de Modelo Linear Generalizado com dados empilhados, Mínimos Quadrados Ordinários (Cross Section), Regressões Quantílicas (Cross Section).
